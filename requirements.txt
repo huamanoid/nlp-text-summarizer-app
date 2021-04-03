@@ -1,1 +1,8 @@
+rouge==1.0.0
+altair==4.1.0
 streamlit==0.79.0
+gensim==3.8.1
+matplotlib==3.2.2
+sumy==0.8.1
+pandas
+nltk
