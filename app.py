@@ -1,9 +1,11 @@
 # Core Pkg
 import streamlit as st 
+import nltk; nltk.download('punkt')
 
 # Additional Pkgs /Summarization Pkgs
 # TextRank Algorithm
 from gensim.summarization import summarize 
+
 
 # LexRank Algorithm
 from sumy.parsers.plaintext import PlaintextParser
