@@ -1,6 +1,6 @@
 # Core Pkg
 import streamlit as st 
-import nltk; nltk.download('punkt')
+# import nltk; nltk.download('punkt')
 
 # Additional Pkgs /Summarization Pkgs
 # TextRank Algorithm
