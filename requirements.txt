@@ -6,3 +6,4 @@ matplotlib==3.2.2
 sumy==0.8.1
 pandas
 nltk
+punkt
